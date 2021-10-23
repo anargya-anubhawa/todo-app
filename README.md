@@ -1,7 +1,7 @@
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![Netlify Status](https://api.netlify.com/api/v1/badges/d596d96c-3514-411c-98cb-df5eab281bba/deploy-status)](https://app.netlify.com/sites/great-todo/deploys)
 # TO-DO App
 
-A simple TO-DO app to store your todos. This also have a localStorage saving feature.
+A simple <a href="https://great-todo.netlify.app/">TO-DO app</a> to store your todos. This also have a localStorage saving feature.
 
 ## Table of content
 
@@ -14,11 +14,13 @@ A simple TO-DO app to store your todos. This also have a localStorage saving fea
 ## About
 
 We all write out to-dos some where and then just forget them. At the end, nothing is done. But you can use this **online** to-do list app to store all your to-dos.
-Now if you just re-open the site you will have all your to-dos saved there waiting for you to check them.
+Now if you just **re-open the site** you will have all your to-dos saved there waiting for you to check them.
 
+TODO-app has **2 branches**. First is the main branch, this branch is for **developing**. The second is the website branch, this branch is used to deploy <a href="https://anargya-anubhawa.github.io/todo-app/">**Github Pages**</a> and <a href="https://great-todo.netlify.app/">**Netlify**</a>. 
 ## Link
 
-- [TODO App](https://anargya-anubhawa.github.io/todo-app)
+- [TODO App (Gh-Pages)](https://anargya-anubhawa.github.io/todo-app)
+- [TODO App (Netlify)](https://great-todo.netlify.app/)
 - [Report Bugs](https://github.com/anargya-anubhawa/todo-app/issues)
 
 ## Caution
