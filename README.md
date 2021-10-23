@@ -1,4 +1,4 @@
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![Netlify Status](https://api.netlify.com/api/v1/badges/d596d96c-3514-411c-98cb-df5eab281bba/deploy-status)](https://app.netlify.com/sites/great-todo/deploys)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![Netlify Status](https://api.netlify.com/api/v1/badges/1e4fb86b-191b-48e2-a5ba-c85268bcd3a7/deploy-status)](https://app.netlify.com/sites/great-todo/deploys)
 # TO-DO App
 
 A simple <a href="https://great-todo.netlify.app/">TO-DO app</a> to store your todos. This also have a localStorage saving feature.
